@@ -1,0 +1,4 @@
+﻿The car had a few supplies and still had gas. You turn it on and start driving. You see a gas station and think that it might help to check for gas.
+
+1. Stop and check for gas
+2. Continue driving and stop for nothing

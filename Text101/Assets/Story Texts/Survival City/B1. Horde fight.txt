@@ -1,0 +1,4 @@
+﻿You tried to rush through the horde but they were too many. You found your self in need of changing directions. You see an abandoned car, it might have supplies and gas to help through the horde. At the same time you spot a possible open gate.
+
+1. Run to the abandoned car.
+2. Run to the gate

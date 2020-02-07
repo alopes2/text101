@@ -1,0 +1,4 @@
+﻿You see a few zombies on the path that might lead to the path to the base. 
+
+1. Run like hell
+2. Go quietly

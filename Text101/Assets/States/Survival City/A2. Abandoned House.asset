@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f93de0da8f5cf4d8e4d8d691a3227c, type: 3}
+  m_Name: A2. Abandoned House
+  m_EditorClassIdentifier: 
+  _storyText: {fileID: 4900000, guid: 0f469c29b68d17d418c1845d386f9457, type: 3}
+  _nextStates:
+  - {fileID: 11400000, guid: 60d020ce3d22c0540a774ff315ca82a8, type: 2}
+  - {fileID: 11400000, guid: b5d420aeec599e841858fe39fceda76e, type: 2}

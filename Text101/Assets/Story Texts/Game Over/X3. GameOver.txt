@@ -1,0 +1,8 @@
+﻿Zombies feasted on your flesh and you couldn't do anything to avoid it.
+
+You died.
+
+Wanna try again?
+
+1. Yes, please, save me.
+2. Nope. Want to stay dead for now.

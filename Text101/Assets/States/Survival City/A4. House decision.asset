@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f93de0da8f5cf4d8e4d8d691a3227c, type: 3}
+  m_Name: A4. House decision
+  m_EditorClassIdentifier: 
+  _storyText: {fileID: 4900000, guid: 24058eadf6b83aa4f9672c792ec014d5, type: 3}
+  _nextStates:
+  - {fileID: 11400000, guid: 33837db0fe4079849aac574f030c7b65, type: 2}
+  - {fileID: 11400000, guid: 413fb33d84393df428b0c6df2810cf0d, type: 2}

@@ -1,0 +1,4 @@
+﻿The gate was opened. You found yourself on the house backyard. You see a door to the cellar.
+
+1. Break the door
+2. Gently try to open it

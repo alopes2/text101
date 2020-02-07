@@ -1,0 +1,4 @@
+﻿Too many zombies surrounded you! You have no escape!
+
+1. Scream!
+2. Won't go down without a fight

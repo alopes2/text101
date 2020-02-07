@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f93de0da8f5cf4d8e4d8d691a3227c, type: 3}
+  m_Name: B3. The car
+  m_EditorClassIdentifier: 
+  _storyText: {fileID: 4900000, guid: d5e46e7915b5ca24ebe0d281d142077e, type: 3}
+  _nextStates:
+  - {fileID: 11400000, guid: 413fb33d84393df428b0c6df2810cf0d, type: 2}
+  - {fileID: 11400000, guid: e518411319cc5fa4aaff586a7aed5a87, type: 2}

@@ -1,0 +1,4 @@
+﻿You sneaked through the horde and safely reached the house. But the door is locked!
+
+1. Pick the lock
+2. Break the window
